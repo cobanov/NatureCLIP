@@ -1,0 +1,6 @@
+torch
+transformers
+timm
+Pillow
+pandas
+torchvision
